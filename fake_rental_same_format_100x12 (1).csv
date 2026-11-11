@@ -1,0 +1,101 @@
+Posted On,BHK,Rent,Size,Floor,Area Type,Area Locality,City,Furnishing Status,Tenant Preferred,Bathroom,Point of Contact
+2022-04-29,1,11500,600,Ground out of 2,Carpet Area,Rohini Sector 7,Delhi,Unfurnished,Bachelors/Family,1,Contact Agent
+2022-05-02,2,22250,975,1 out of 3,Super Area,Borivali West,Mumbai,Semi-Furnished,Family,2,Contact Owner
+2022-05-05,2,19500,1050,2 out of 4,Super Area,Indiranagar,Bengaluru,Furnished,Bachelors,2,Contact Owner
+2022-05-08,3,22750,1425,3 out of 5,Carpet Area,Kukatpally,Hyderabad,Unfurnished,Bachelors/Family,3,Contact Owner
+2022-05-11,3,23500,1500,4 out of 6,Super Area,Baner,Pune,Semi-Furnished,Family,2,Contact Agent
+2022-05-14,4,26250,1875,5 out of 6,Super Area,Rajarhat,Kolkata,Furnished,Bachelors,4,Contact Owner
+2022-05-17,1,18500,600,6 out of 7,Carpet Area,Chromepet,Chennai,Unfurnished,Bachelors/Family,1,Contact Owner
+2022-05-20,2,12000,975,7 out of 8,Super Area,Ajmer Road,Jaipur,Semi-Furnished,Family,2,Contact Owner
+2022-05-23,3,16250,1350,Ground out of 5,Super Area,Rajajipuram,Lucknow,Furnished,Bachelors,2,Contact Agent
+2022-05-26,2,16500,1125,1 out of 6,Carpet Area,Sector 49,Chandigarh,Unfurnished,Bachelors/Family,2,Contact Owner
+2022-05-29,1,15250,900,2 out of 3,Super Area,Laxmi Nagar,Delhi,Semi-Furnished,Family,1,Contact Owner
+2022-06-01,2,26000,1275,3 out of 4,Super Area,Powai,Mumbai,Furnished,Bachelors,2,Contact Owner
+2022-06-04,2,23250,900,4 out of 5,Carpet Area,Marathahalli,Bengaluru,Unfurnished,Bachelors/Family,1,Contact Agent
+2022-06-07,3,26500,1275,5 out of 6,Super Area,Miyapur,Hyderabad,Semi-Furnished,Family,3,Contact Owner
+2022-06-10,3,18500,1350,6 out of 7,Super Area,Viman Nagar,Pune,Furnished,Bachelors,3,Contact Owner
+2022-06-13,4,21250,1725,7 out of 8,Carpet Area,Garia,Kolkata,Unfurnished,Bachelors/Family,4,Contact Owner
+2022-06-16,1,13500,900,Ground out of 3,Super Area,T Nagar,Chennai,Semi-Furnished,Family,1,Contact Agent
+2022-06-19,2,15750,1275,1 out of 4,Super Area,Vidhyadhar Nagar,Jaipur,Furnished,Bachelors,2,Contact Owner
+2022-06-22,3,20000,1200,2 out of 5,Carpet Area,Sushant Golf City,Lucknow,Unfurnished,Bachelors/Family,3,Contact Owner
+2022-06-25,2,20250,975,3 out of 6,Super Area,Sector 22,Chandigarh,Semi-Furnished,Family,2,Contact Owner
+2022-06-28,1,19000,750,4 out of 5,Super Area,Dwarka Sector 12,Delhi,Furnished,Bachelors,1,Contact Agent
+2022-07-01,2,21000,1125,5 out of 6,Carpet Area,Kurla,Mumbai,Unfurnished,Bachelors/Family,2,Contact Owner
+2022-07-04,2,18250,1200,6 out of 7,Super Area,HSR Layout,Bengaluru,Semi-Furnished,Family,2,Contact Owner
+2022-07-07,3,21500,1575,7 out of 8,Super Area,Begumpet,Hyderabad,Furnished,Bachelors,3,Contact Owner
+2022-05-01,3,22250,1200,Ground out of 6,Carpet Area,Kharadi,Pune,Unfurnished,Bachelors/Family,2,Contact Agent
+2022-05-04,4,25000,1575,1 out of 2,Super Area,Jadavpur,Kolkata,Semi-Furnished,Family,4,Contact Owner
+2022-05-07,1,17250,750,2 out of 3,Super Area,Perungudi,Chennai,Furnished,Bachelors,1,Contact Owner
+2022-05-10,2,19500,1125,3 out of 4,Carpet Area,Sodala,Jaipur,Unfurnished,Bachelors/Family,2,Contact Owner
+2022-05-13,3,15000,1500,4 out of 5,Super Area,Gomti Nagar,Lucknow,Semi-Furnished,Family,2,Contact Agent
+2022-05-16,2,15250,1275,5 out of 6,Super Area,Sector 34,Chandigarh,Furnished,Bachelors,2,Contact Owner
+2022-05-19,1,14000,600,6 out of 7,Carpet Area,Saket,Delhi,Unfurnished,Bachelors/Family,1,Contact Owner
+2022-05-22,2,24750,975,7 out of 8,Super Area,Dadar,Mumbai,Semi-Furnished,Family,2,Contact Owner
+2022-05-25,2,22000,1050,Ground out of 4,Super Area,Yelahanka,Bengaluru,Furnished,Bachelors,1,Contact Agent
+2022-05-28,3,25250,1425,1 out of 5,Carpet Area,Ameerpet,Hyderabad,Unfurnished,Bachelors/Family,3,Contact Owner
+2022-05-31,3,26000,1500,2 out of 6,Super Area,Pimpri,Pune,Semi-Furnished,Family,3,Contact Owner
+2022-06-03,4,20000,1875,3 out of 4,Super Area,Kasba,Kolkata,Furnished,Bachelors,4,Contact Owner
+2022-06-06,1,12250,600,4 out of 5,Carpet Area,Ambattur,Chennai,Unfurnished,Bachelors/Family,1,Contact Agent
+2022-06-09,2,14500,975,5 out of 6,Super Area,Malviya Nagar,Jaipur,Semi-Furnished,Family,2,Contact Owner
+2022-06-12,3,18750,1350,6 out of 7,Super Area,Indira Nagar,Lucknow,Furnished,Bachelors,3,Contact Owner
+2022-06-15,2,19000,1125,7 out of 8,Carpet Area,Sector  er43,Chandigarh,Unfurnished,Bachelors/Family,2,Contact Owner
+2022-06-18,1,17750,900,Ground out of 2,Super Area,Uttam Nagar,Delhi,Semi-Furnished,Family,1,Contact Agent
+2022-06-21,2,28500,1275,1 out of 3,Super Area,Thane West,Mumbai,Furnished,Bachelors,2,Contact Owner
+2022-06-24,2,17000,900,2 out of 4,Carpet Area,Hebbal,Bengaluru,Unfurnished,Bachelors/Family,2,Contact Owner
+2022-06-27,3,20250,1275,3 out of 5,Super Area,Manikonda,Hyderabad,Semi-Furnished,Family,3,Contact Owner
+2022-06-30,3,21000,1350,4 out of 6,Super Area,Aundh,Pune,Furnished,Bachelors,2,Contact Agent
+2022-07-03,4,23750,1725,5 out of 6,Carpet Area,Howrah,Kolkata,Unfurnished,Bachelors/Family,4,Contact Owner
+2022-07-06,1,16000,900,6 out of 7,Super Area,Velachery,Chennai,Semi-Furnished,Family,1,Contact Owner
+2022-04-30,2,18250,1275,7 out of 8,Super Area,Vaishali Nagar,Jaipur,Furnished,Bachelors,2,Contact Owner
+2022-05-03,3,22500,1200,Ground out of 5,Carpet Area,Aliganj,Lucknow,Unfurnished,Bachelors/Family,2,Contact Agent
+2022-05-06,2,14000,975,1 out of 6,Super Area,Sector 45,Chandigarh,Semi-Furnished,Family,2,Contact Owner
+2022-05-09,1,12750,750,2 out of 3,Super Area,Mayur Vihar,Delhi,Furnished,Bachelors,1,Contact Owner
+2022-05-12,2,23500,1125,3 out of 4,Carpet Area,Kandivali,Mumbai,Unfurnished,Bachelors/Family,2,Contact Owner
+2022-05-15,2,20750,1200,4 out of 5,Super Area,Koramangala,Bengaluru,Semi-Furnished,Family,1,Contact Agent
+2022-05-18,3,24000,1575,5 out of 6,Super Area,Uppal,Hyderabad,Furnished,Bachelors,3,Contact Owner
+2022-05-21,3,24750,1200,6 out of 7,Carpet Area,Kondhwa,Pune,Unfurnished,Bachelors/Family,3,Contact Owner
+2022-05-24,4,27500,1575,7 out of 8,Super Area,Salt Lake,Kolkata,Semi-Furnished,Family,4,Contact Owner
+2022-05-27,1,11000,750,Ground out of 3,Super Area,Anna Nagar,Chennai,Furnished,Bachelors,1,Contact Agent
+2022-05-30,2,13250,1125,1 out of 4,Carpet Area,Mansarovar,Jaipur,Unfurnished,Bachelors/Family,2,Contact Owner
+2022-06-02,3,17500,1500,2 out of 5,Super Area,Hazratganj,Lucknow,Semi-Furnished,Family,3,Contact Owner
+2022-06-05,2,17750,1275,3 out of 6,Super Area,Manimajra,Chandigarh,Furnished,Bachelors,2,Contact Owner
+2022-06-08,1,16500,600,4 out of 5,Carpet Area,Karol Bagh,Delhi,Unfurnished,Bachelors/Family,1,Contact Agent
+2022-06-11,2,27250,975,5 out of 6,Super Area,Chembur,Mumbai,Semi-Furnished,Family,2,Contact Owner
+2022-06-14,2,24500,1050,6 out of 7,Super Area,BTM Layout,Bengaluru,Furnished,Bachelors,2,Contact Owner
+2022-06-17,3,19000,1425,7 out of 8,Carpet Area,Hitech City,Hyderabad,Unfurnished,Bachelors/Family,3,Contact Owner
+2022-06-20,3,19750,1500,Ground out of 6,Super Area,Hinjawadi,Pune,Semi-Furnished,Family,2,Contact Agent
+2022-06-23,4,22500,1875,1 out of 2,Super Area,New Town,Kolkata,Furnished,Bachelors,4,Contact Owner
+2022-06-26,1,14750,600,2 out of 3,Carpet Area,Tambaram,Chennai,Unfurnished,Bachelors/Family,1,Contact Owner
+2022-06-29,2,17000,975,3 out of 4,Super Area,Jagatpura,Jaipur,Semi-Furnished,Family,2,Contact Owner
+2022-07-02,3,21250,1350,4 out of 5,Super Area,Jankipuram,Lucknow,Furnished,Bachelors,2,Contact Agent
+2022-07-05,2,21500,1125,5 out of 6,Carpet Area,Sector 15,Chandigarh,Unfurnished,Bachelors/Family,2,Contact Owner
+2022-04-29,1,11500,900,6 out of 7,Super Area,Vasant Kunj,Delhi,Semi-Furnished,Family,1,Contact Owner
+2022-05-02,2,22250,1275,7 out of 8,Super Area,Goregaon,Mumbai,Furnished,Bachelors,2,Contact Owner
+2022-05-05,2,19500,900,Ground out of 4,Carpet Area,JP Nagar,Bengaluru,Unfurnished,Bachelors/Family,1,Contact Agent
+2022-05-08,3,22750,1275,1 out of 5,Super Area,Madhapur,Hyderabad,Semi-Furnished,Family,3,Contact Owner
+2022-05-11,3,23500,1350,2 out of 6,Super Area,Wakad,Pune,Furnished,Bachelors,3,Contact Owner
+2022-05-14,4,26250,1725,3 out of 4,Carpet Area,Behala,Kolkata,Unfurnished,Bachelors/Family,4,Contact Owner
+2022-05-17,1,18500,900,4 out of 5,Super Area,Porur,Chennai,Semi-Furnished,Family,1,Contact Agent
+2022-05-20,2,12000,1275,5 out of 6,Super Area,C Scheme,Jaipur,Furnished,Bachelors,2,Contact Owner
+2022-05-23,3,16250,1200,6 out of 7,Carpet Area,Alambagh,Lucknow,Unfurnished,Bachelors/Family,3,Contact Owner
+2022-05-26,2,16500,975,7 out of 8,Super Area,Sector 40,Chandigarh,Semi-Furnished,Family,2,Contact Owner
+2022-05-29,1,15250,750,Ground out of 2,Super Area,Pitampura,Delhi,Furnished,Bachelors,1,Contact Agent
+2022-06-01,2,26000,1125,1 out of 3,Carpet Area,Malad,Mumbai,Unfurnished,Bachelors/Family,2,Contact Owner
+2022-06-04,2,23250,1200,2 out of 4,Super Area,Whitefield,Bengaluru,Semi-Furnished,Family,2,Contact Owner
+2022-06-07,3,26500,1575,3 out of 5,Super Area,Kondapur,Hyderabad,Furnished,Bachelors,3,Contact Owner
+2022-06-10,3,18500,1200,4 out of 6,Carpet Area,Kothrud,Pune,Unfurnished,Bachelors/Family,2,Contact Agent
+2022-06-13,4,21250,1575,5 out of 6,Super Area,Dum Dum,Kolkata,Semi-Furnished,Family,4,Contact Owner
+2022-06-16,1,13500,750,6 out of 7,Super Area,Adyar,Chennai,Furnished,Bachelors,1,Contact Owner
+2022-06-19,2,15750,1125,7 out of 8,Carpet Area,Tonk Road,Jaipur,Unfurnished,Bachelors/Family,2,Contact Owner
+2022-06-22,3,20000,1500,Ground out of 5,Super Area,Mahanagar,Lucknow,Semi-Furnished,Family,2,Contact Agent
+2022-06-25,2,20250,1275,1 out of 6,Super Area,Sector 44,Chandigarh,Furnished,Bachelors,2,Contact Owner
+2022-06-28,1,19000,600,2 out of 3,Carpet Area,Janakpuri,Delhi,Unfurnished,Bachelors/Family,1,Contact Owner
+2022-07-01,2,21000,975,3 out of 4,Super Area,Andheri East,Mumbai,Semi-Furnished,Family,2,Contact Owner
+2022-07-04,2,18250,1050,4 out of 5,Super Area,Electronic City,Bengaluru,Furnished,Bachelors,1,Contact Agent
+2022-07-07,3,21500,1425,5 out of 6,Carpet Area,Gachibowli,Hyderabad,Unfurnished,Bachelors/Family,3,Contact Owner
+2022-05-01,3,22250,1500,6 out of 7,Super Area,Hadapsar,Pune,Semi-Furnished,Family,3,Contact Owner
+2022-05-04,4,25000,1875,7 out of 8,Super Area,Tollygunge,Kolkata,Furnished,Bachelors,4,Contact Owner
+2022-05-07,1,17250,600,Ground out of 3,Carpet Area,OMR,Chennai,Unfurnished,Bachelors/Family,1,Contact Agent
+2022-05-10,2,19500,975,1 out of 4,Super Area,Jhotwara,Jaipur,Semi-Furnished,Family,2,Contact Owner
+2022-05-13,3,15000,1350,2 out of 5,Super Area,Vikas Nagar,Lucknow,Furnished,Bachelors,3,Contact Owner
+2022-05-16,2,15250,1125,3 out of 6,Carpet Area,Sector 20,Chandigarh,Unfurnished,Bachelors/Family,2,Contact Owner
